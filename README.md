@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning New Programming Languages & Frameworks<br>💬 You can ask me about: Web Development<br>🎯 Looking for: Internship opportunities<br>🎓 Education: Second Year B.Sc. Computer Science Student</p>
+<p align="left">📚 I'm currently learning New Programming Languages & Frameworks<br>💬 You can ask me about: Web Development<br>🎯 Looking for: Internship opportunities<br>🎓 Education:Computer Science Student</p>
 
 ###
 
