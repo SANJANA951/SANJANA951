@@ -1,49 +1,79 @@
-<h1 align="left">Hey 👋 I'm Sanjana</h1>
+<div align="center">
 
-###
+# Hi there, I'm Sanjana Saroj 👋
 
-<p align="left">I am Web Developer</p>
+### Computer Science Student | Aspiring Web Developer
 
-###
+Passionate about building clean, efficient, and user-friendly applications.
+Currently exploring modern web technologies and strengthening problem-solving skills through DSA & system design.
 
-<h2 align="left">About me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjanasaroj9543@gmail.com)
 
-###
-
-<p align="left">📚 I'm currently learning New Programming Languages & Frameworks<br>💬 You can ask me about: Web Development<br>🎯 Looking for: Internship opportunities<br>🎓 Education:Computer Science Student</p>
-
-###
-
-<h2 align="left">skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
+---
 
-<h2 align="left">Social</h2>
+### 👩‍💻 About Me
 
-###
+- 🎓 Computer Science Student
+- 🌱 Currently learning **React, Next.js, and advanced backend concepts**
+- 💡 Interested in **Web Development, Problem Solving, and UI/UX**
+- 🔭 Looking for **internships and open-source opportunities**
+- 📫 Open to collaboration on interesting projects
 
-<div align="left">
-  <a href="linkedin.com/in/sanjana-saroj-5451b0349" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+---
+
+### 🛠️ Skills & Technologies
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Programming Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4A154B?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Fundamentals & Tools**
+
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-3776AB?style=for-the-badge&logo=classpass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default" />
 </div>
 
-###
+---
+
+### 📌 Pinned Projects
+
+<!-- Add project cards here, e.g.:
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME)](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME)
+-->
+
+---
+
+<div align="center">
+
+### 🌟 Let's Connect!
+
+Feel free to reach out if you want to collaborate or just chat about tech!
+
+</div>
