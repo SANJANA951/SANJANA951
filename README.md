@@ -53,16 +53,6 @@ Currently exploring modern web technologies and strengthening problem-solving sk
 
 ---
 
-### 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANJANA951&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJANA951&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" height="170"/>
-</div>
----
-
 ### 📌 Pinned Projects
 
 <!-- Add project cards here, e.g.:
