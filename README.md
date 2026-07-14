@@ -7,8 +7,8 @@
 Passionate about building clean, efficient, and user-friendly applications.
 Currently exploring modern web technologies and strengthening problem-solving skills through DSA & system design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjanasaroj9543@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-saroj-5451b0349/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjanasaroj4848@gmail.com)
 
 </div>
 
@@ -56,8 +56,8 @@ Currently exploring modern web technologies and strengthening problem-solving sk
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SANJANA951&show_icons=true&theme=radical" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJANA951&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -65,7 +65,7 @@ Currently exploring modern web technologies and strengthening problem-solving sk
 ### 📌 Pinned Projects
 
 <!-- Add project cards here, e.g.:
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME)](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=SANJANA951&repo=REPO-NAME)](https://github.com/SANJANA951/REPO-NAME)
 -->
 
 ---
